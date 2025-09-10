@@ -29,6 +29,7 @@ Currently pursuing BTech. in Computer Science and Business Systems.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
+- LinkedIn: Sreya Sudevan
+            https://www.linkedin.com/in/sreya-sudevan-474501332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 - Email: sreyasudevan.now@gmail.com
 
