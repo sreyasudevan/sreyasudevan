@@ -14,13 +14,11 @@ Currently pursuing BTech. in Computer Science and Business Systems.
 
 ## 📂 Featured Projects
 
-- **Fake News Detector** 📰  
-  NLP-based system to classify real vs fake news using machine learning.  
-  [🔗 View Project](https://github.com/yourusername/fake-news-detector)
+- **MAMAMIND**
+  One stop AI mental health chatbot for postpartum women. 
 
 - **YOLOv8 License Plate Detection** 🚘  
   Trained YOLOv8 model to detect vehicle plates and extract numbers with OCR.  
-  [🔗 View Project](https://github.com/yourusername/number-plate-detection)
 
 ---
 
